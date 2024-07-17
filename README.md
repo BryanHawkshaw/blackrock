@@ -20,10 +20,10 @@ The key functions and areas of focus for BlackRock's Global Product Solutions in
 Improving data quality, Automating the data collection, cleaning, transformation, and reporting processes AND Integrating market data with internal sales data, providing valuable insights for strategic decision-making. 
 
 # Tools used
-Jupyter Notebook
-Python
-Pandas
-Numpy
-Plotly
-Matplotlib
-Seaborn
+Jupyter Notebook,
+Python,
+Pandas,
+Numpy,
+Plotly,
+Matplotlib,
+Seaborn.
