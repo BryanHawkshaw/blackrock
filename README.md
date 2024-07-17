@@ -27,3 +27,9 @@ Numpy,
 Plotly,
 Matplotlib,
 Seaborn.
+
+![ScatterPlot](https://github.com/user-attachments/assets/6d97dfe7-56d9-4af5-8c82-2f4bb3eec341)
+
+![LinePlot](https://github.com/user-attachments/assets/2ac2b790-0d48-4087-966e-ea99884998af)
+
+
